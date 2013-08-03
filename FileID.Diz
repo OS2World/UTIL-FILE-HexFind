@@ -1,0 +1,4 @@
+HexFind 2.1, a very fast pattern finder;
+searches for any byte sequence including
+wildcards in all files; allows searching
+subdirectories, system and hidden files
